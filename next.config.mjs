@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  basePath: "/design",
+  output: "export",
+  reactStrictMode: true,
   images: {
     remotePatterns: [
       {

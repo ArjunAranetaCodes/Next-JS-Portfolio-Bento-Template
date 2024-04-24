@@ -42,5 +42,8 @@ npm run dev
 </ol>
 The application run at http://localhost:3000/.
 
+## Github Pages Deployment
+[https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/](https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/)
+
 ## Contributions
 Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
