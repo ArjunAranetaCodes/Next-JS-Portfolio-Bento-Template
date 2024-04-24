@@ -20,31 +20,40 @@ Free NextJS Portfolio Page Template written in Next.js, Tailwind CSS 3, TypeScri
 
 <ol>
 <li>Clone the repository:</li>
+<br/>
+
 ```
-git clone git://github.com/ArjunAranetaCodes/Next-JS-Portfolio-Bento-Template.git <br/>
+git clone git://github.com/ArjunAranetaCodes/Next-JS-Portfolio-Bento-Template.git
+
 cd Next-JS-Portfolio-Bento-Template
 ```
 
+
 <li>Ensure Node 16 or higher:</li>
-<code>
+<br/>
+
+```
 nvm install
 node --version
-</code>
+```
 
 <li>Install dependencies:</li>
-<code>
+<br/>
+
+```
 npm install
-</code>
+```
 
 <li>Start the app:</li>
-<code>
-npm run dev
-</code>
-</ol>
-The application run at http://localhost:3000/.
+<br/>
 
-## Github Pages Deployment
-[https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/](https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/)
+```
+npm run dev
+```
+
+</ol>
+
+The application run at [http://localhost:3000/](http://localhost:3000/).
 
 ## Contributions
 Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
