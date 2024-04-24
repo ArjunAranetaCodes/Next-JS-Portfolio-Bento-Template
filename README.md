@@ -2,6 +2,7 @@
 Free NextJS Portfolio Page Template written in Next.js, Tailwind CSS 3, TypeScript, React, Framer, ESLint, Prettier, VSCode, PostCSS
 
 ## Demo
+[https://next-js-portfolio-bento-template.vercel.app/](https://next-js-portfolio-bento-template.vercel.app/)
 ![](/public/images/snap1.png)
 
 ## 🚀 Features
@@ -19,10 +20,10 @@ Free NextJS Portfolio Page Template written in Next.js, Tailwind CSS 3, TypeScri
 
 <ol>
 <li>Clone the repository:</li>
-<code>
+```
 git clone git://github.com/ArjunAranetaCodes/Next-JS-Portfolio-Bento-Template.git <br/>
 cd Next-JS-Portfolio-Bento-Template
-</code>
+```
 
 <li>Ensure Node 16 or higher:</li>
 <code>
